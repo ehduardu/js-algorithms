@@ -1,3 +1,6 @@
+/**
+ * Using recursion instead of a loop to sum the items from an array
+ */
 function sumByRecursion(items){
   if(!items.length) return 0
 
